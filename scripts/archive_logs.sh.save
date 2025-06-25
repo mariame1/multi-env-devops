@@ -1,7 +1,6 @@
-
 #!/bin/bash
 
-LOG_DIR="$HOME/multi-env-devops/logs"
+LOG_DIR="/var/log/DemoApp"
 ARCHIVE_DIR="$LOG_DIR/archive"
 
 # Make sure archive directory exists
